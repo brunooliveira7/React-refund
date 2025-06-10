@@ -13,7 +13,7 @@ export function AuthLayout() {
       >
         <img src={logoSvg} alt="Logo" className="my-8" />
 
-        {/*fomulário em comum para as rotas signIn e signOut*/}
+        {/*renderizar o conteúdo da rota singIn*/}
         <Outlet />
       </main>
     </div>
