@@ -1,5 +1,3 @@
 export function Refund() {
-  return (
-    <div>Refund</div>
-  )
+  return <div>Refund</div>;
 }
