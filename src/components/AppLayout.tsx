@@ -8,7 +8,7 @@ export function AppLayout() {
     text-gray-100"
     >
       <main className="p-3 w-full md:w-auto">
-        
+
         <Header />
         <Outlet />
       </main>
