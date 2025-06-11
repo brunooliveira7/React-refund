@@ -27,7 +27,7 @@ export const CATEGORIES = {
   },
 };
 
-//devolve uma lista com os nomes das categorias
+//devolve uma lista com os identificadores das categorias
 export const CATEGORIES_KEYS = Object.keys(CATEGORIES) as Array<
   keyof typeof CATEGORIES
 >;
