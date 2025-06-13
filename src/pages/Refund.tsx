@@ -23,6 +23,7 @@ export function Refund() {
       amount,
       filename,
     });
+
     navigate("/confirm", { state: { fromSubmit: true } });
   }
 
