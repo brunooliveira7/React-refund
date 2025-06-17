@@ -10,7 +10,7 @@ const isLoading = false;
 
 const session = {
   user: {
-    role: "",
+    role: "", 
   },
 };
 
@@ -24,7 +24,7 @@ export function Routes() {
       default:
         return <AuthRoutes />;
     }
-  }
+  } 
 
   if (isLoading) {
     return <Loading />;
