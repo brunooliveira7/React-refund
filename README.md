@@ -53,15 +53,15 @@ clsx + tailwind-merge
 ---
 
 <p align="center">
-  <img alt="React-refund" src="">
+  <img alt="React-refund" src="https://github.com/brunooliveira7/React-refund/blob/main/public/Sign%20in%20and%20Sign%20Up.png">
 </p>
 
 <p align="center">
-  <img alt="React-refund" src="">
+  <img alt="React-refund" src="https://github.com/brunooliveira7/React-refund/blob/main/public/Employee.png">
 </p>
 
 <p align="center">
-  <img alt="React-refund" src="">
+  <img alt="React-refund" src="https://github.com/brunooliveira7/React-refund/blob/main/public/Manager.png">
 </p>
 
 ---
