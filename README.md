@@ -52,3 +52,15 @@ clsx + tailwind-merge
 
 ---
 
+<p align="center">
+  <img alt="React-refund" src="">
+</p>
+
+---
+
+### ✍️ Autor
+Desenvolvido por Bruno Oliveira 🧠
+
+## 📝 Licença
+Este projeto está sob a licença MIT.
+
