@@ -56,6 +56,14 @@ clsx + tailwind-merge
   <img alt="React-refund" src="">
 </p>
 
+<p align="center">
+  <img alt="React-refund" src="">
+</p>
+
+<p align="center">
+  <img alt="React-refund" src="">
+</p>
+
 ---
 
 ### ✍️ Autor
