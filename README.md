@@ -5,7 +5,7 @@
 A aplicação possui dois perfis de usuário:
 
 - **Funcionário (Employee)**: pode fazer login, criar conta e enviar pedidos de reembolso com comprovantes.
-- **Administrador (Manager/Admin)**: faz login e visualiza, filtra, página por página, detalhes dos pedidos enviados pelos funcionários.
+- **Administrador (Manager)**: faz login e visualiza, filtra, página por página, detalhes dos pedidos enviados pelos funcionários.
 
 ---
 
